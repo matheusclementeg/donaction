@@ -93,7 +93,7 @@
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-user-o fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Participar da campanha</h4>
+                    <h4 class="service-heading">Participe da campanha</h4>
                     <p class="text-muted">O primeiro passo é participar das campanhas de doação que a Donaction oferece para incentivar o bem!</p>
                 </div>
                 <div class="col-md-4">
@@ -101,7 +101,7 @@
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="glyphicon glyphicon-ok fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Retirar o voucher</h4>
+                    <h4 class="service-heading">Retire o voucher</h4>
                     <p class="text-muted">Depois de doar é só pegar o código que o centro de coleta te dará e seguir os passos aqui embaixo.</p>
                 </div>
                 <div class="col-md-4">
@@ -109,7 +109,7 @@
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-heart-o fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Indicar os amigos</h4>
+                    <h4 class="service-heading">Indique aos amigos</h4>
                     <p class="text-muted">Pronto! Se você gostou de ajudar os outros indique seus amigos para continuar a espalhar e fortalecer esta corrente do bem!</p>
                 </div>
             </div>
